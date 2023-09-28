@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/quii/go-specs-greet/adapters"
-	"github.com/quii/go-specs-greet/adapters/grpcserver"
-	"github.com/quii/go-specs-greet/specifications"
+	"github.com/crazyvan/go-specs-greet/adapters"
+	"github.com/crazyvan/go-specs-greet/adapters/grpcserver"
+	"github.com/crazyvan/go-specs-greet/specifications"
 )
 
 func TestGreeterServer(t *testing.T) {

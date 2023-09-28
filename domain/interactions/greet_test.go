@@ -3,8 +3,8 @@ package interactions_test
 import (
 	"testing"
 
-	"github.com/quii/go-specs-greet/domain/interactions"
-	"github.com/quii/go-specs-greet/specifications"
+	"github.com/crazyvan/go-specs-greet/domain/interactions"
+	"github.com/crazyvan/go-specs-greet/specifications"
 )
 
 func TestGreet(t *testing.T) {

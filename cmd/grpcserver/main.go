@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/quii/go-specs-greet/adapters/grpcserver"
+	"github.com/crazyvan/go-specs-greet/adapters/grpcserver"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 )

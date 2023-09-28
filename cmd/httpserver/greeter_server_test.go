@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quii/go-specs-greet/adapters"
-	"github.com/quii/go-specs-greet/adapters/httpserver"
-	"github.com/quii/go-specs-greet/specifications"
+	"github.com/crazyvan/go-specs-greet/adapters"
+	"github.com/crazyvan/go-specs-greet/adapters/httpserver"
+	"github.com/crazyvan/go-specs-greet/specifications"
 )
 
 func TestHTTPGreeterServer(t *testing.T) {

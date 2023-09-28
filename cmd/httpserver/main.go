@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	adapters "github.com/quii/go-specs-greet/adapters"
+	adapters "github.com/crazyvan/go-specs-greet/adapters"
 )
 
 func main() {

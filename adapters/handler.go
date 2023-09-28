@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/quii/go-specs-greet/domain/interactions"
+	"github.com/crazyvan/go-specs-greet/domain/interactions"
 )
 
 func GreetHandler(w http.ResponseWriter, r *http.Request) {
